@@ -8,4 +8,4 @@ function quadrado (num1){
     return num1*num1;
 }
 
-console.log(soma(70,7));
+console.log("Area= " quadrado(7))
