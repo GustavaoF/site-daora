@@ -15,3 +15,5 @@ let media = function (v1, v2, v3){
 }
 
 console.log(media(3,7,86))
+
+let nome = prompt('nome?')
