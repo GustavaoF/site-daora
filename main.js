@@ -12,8 +12,8 @@ console.log("Area=" + areaQuadrado(7));
 
 let media = function (v1, v2, v3){
     return (v1+v2+v3)/3;
+    let nome = prompt('nome?')
 }
 
 console.log(media(3,7,86))
 
-let nome = prompt('nome?')
