@@ -2,4 +2,4 @@ function soma (num1,num2){
     return num1+num2;
 }
 
-console.log(soma(60,9));
+console.log(soma(70,7));
