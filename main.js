@@ -11,9 +11,9 @@ function areaQuadrado(lado){
 console.log("Area=" + areaQuadrado(7));
 
 
-parseInt n1 = prompt('numero 1?');
-parseInt n2 = prompt('numero 2?');
-parseInt n3 = prompt('numero 3?');
+let n1 = parseInt(prompt('numero 1?'));
+let n2 = parseInt(prompt('numero 2?'));
+let n3 = parseInt(prompt('numero 3?'));
 
 let media = function (v1, v2, v3){
     return (v1+v2+v3)/3;
