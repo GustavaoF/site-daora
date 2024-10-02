@@ -34,10 +34,10 @@
 //     console.log(estados[index]);
 // }
 
-let idade = 7;
+let idade = 18;
 if (idade>17) {
     console.log ('Pode dirigir!!!!!!')
 }
 else {
-    console.log ('Não pode dirigir , seu bostinha!!!!!!!')
+    console.log ('Não pode dirigir, seu bostinha!!!!!!!')
 }
