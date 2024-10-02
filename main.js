@@ -21,4 +21,8 @@
 
 // console.log(media(n1, n2, n3))
 
+let i = 0;
 let estados = ['RS', 'SC', 'PR', 'SP', 'MG', 'RJ', 'ES', 'MT', 'MS', 'GO', 'DF', 'RO', 'AC', 'AM', 'RR', 'PA', 'AP', 'TO', 'MA', 'PI', 'CE', 'RN', 'PE', 'PB', 'AL', 'SE', 'BA']
+while (i<5){
+    console.log(i);
+}
