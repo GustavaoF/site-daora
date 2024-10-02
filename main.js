@@ -30,7 +30,7 @@ while (i<estados.length){
 }
 
 for (let index = 0; index < estados.length; index++) {
-    console.log(i)
+    console.log(index)
     console.log(estados[index]);
 
 
