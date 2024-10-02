@@ -32,8 +32,6 @@ while (i<estados.length){
 for (let index = 0; index < estados.length; index++) {
     console.log(index)
     console.log(estados[index]);
-
-
 }
 
 let idade = 77;
@@ -41,5 +39,5 @@ if () {
 
 }
 else {
-    
+
 }
