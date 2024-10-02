@@ -35,3 +35,11 @@ for (let index = 0; index < estados.length; index++) {
 
 
 }
+
+let idade = 77;
+if () {
+
+}
+else {
+    
+}
