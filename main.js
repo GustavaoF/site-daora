@@ -29,7 +29,7 @@ while (i<estados.length){
 }
 
 for (let index = 0; index < estados.length; index++) {
-    console.log(estados[i]);
-    i=i+1;
+    console.log(estados[index]);
+    index=index+1;
 
 }
