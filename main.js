@@ -39,5 +39,5 @@ if (idade>17) {
     console.log ('Pode dirigir!!!!!!')
 }
 else {
-    console.log ('Não pode dirigir, seu bostinha!!!!!!!')
+    console.log ('Não pode dirigir!!!!!!')
 }
